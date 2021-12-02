@@ -1,0 +1,43 @@
+{
+   "unused": [
+      "python",
+      "javascript",
+      "java",
+      "typescript",
+      "kotlin",
+      "c#",
+      "c",
+      "c++",
+      "bash",
+      "coffeescript",
+      "lua",
+      "rust",
+      "go",
+      "haskell",
+      "julia",
+      "perl",
+      "php",
+      "scala",
+      "f#",
+      "d",
+      "pen and paper",
+      "x86 assembly",
+      "scratch",
+      "haxe",
+      "excel",
+      "dart",
+      "elixir",
+      "prolog",
+      "r",
+      "groovy",
+      "lisp",
+      "cobol",
+      "fortran"
+   ],
+   "used": [
+      {
+         "day": 1,
+         "language": "ruby"
+      }
+   ]
+}
