@@ -24,20 +24,22 @@
       "x86 assembly",
       "scratch",
       "haxe",
-      "excel",
       "dart",
       "elixir",
       "prolog",
       "r",
       "groovy",
       "lisp",
-      "cobol",
       "fortran"
    ],
    "used": [
       {
          "day": 1,
          "language": "ruby"
+      },
+      {
+         "day": 2,
+         "language": "excel"
       }
    ]
 }
